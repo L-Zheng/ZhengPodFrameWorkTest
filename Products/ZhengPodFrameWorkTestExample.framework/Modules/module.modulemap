@@ -1,0 +1,6 @@
+framework module ZhengPodFrameWorkTestExample {
+  umbrella header "ZhengPodFrameWorkTestExample.h"
+
+  export *
+  module * { export * }
+}
