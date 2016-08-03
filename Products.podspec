@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Products"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "A short description of Products."
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Products"
+  s.source_files  = "Products/ZhengPodFrameWorkTestExample.framework"
 #s.source_files  = "Classes", "Classes/**/*.{h,m}"
 #s.exclude_files = "Classes/Exclude"
 
